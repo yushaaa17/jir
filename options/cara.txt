@@ -1,0 +1,20 @@
+PANDUAN ATAU TUTORIAL 📝
+
+🗣️: cara add premium user?
+👑: ketik dibot Kalian #addprem number
+contoh? #addprem 6285789004732
+tanpa spasi dan + atau -
+
+🗣️: cara download video tiktok?
+👑: cukup kirim url tiktok ke botnya
+ntar bakal otomatis kirim data media
+yang bakal diunduh / didownload
+
+🗣️: cara jadibot lewat bot gmn?
+👑: pastikan user harus premium terlebih dahulu
+dan chat dibot dengan format #jadibot
+tar bot bakal ngirim qr buat di scan
+
+🗣️: cara kirim pesan menfess/rahasia?
+👑: ketik dibot #menfess 628xx|nama pengirim|pesan
+contoh? #menfess 6285789004732|lexy|halo
